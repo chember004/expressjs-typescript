@@ -16,6 +16,7 @@
   "dependencies": {
     "express": "^4.19.2",
     "express-session": "^1.18.0",
+    "express-typescript": "file:",
     "passport": "^0.7.0"
   },
   "devDependencies": {
