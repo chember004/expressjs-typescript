@@ -9,6 +9,7 @@
 - npx tsc --init => create new tsconfig.json
 - SET the Type Checking inside of tsconfig.json
 - set rootDir: "./src" => set up root directory
+- set outDir: "./dist" => set up build directory
 - "strict": true => Enable all strict type-checking options. ,
 - "noImplicitAny": true => Enable error reporting for expressions and declarations with an implied 'any' type.,
 - "strictNullChecks": true => When type checking, take into account 'null' and 'undefined'. ,
